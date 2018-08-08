@@ -26,7 +26,7 @@ class ViewController: UIViewController {
         // Logika game
         playGameLogic(buSelected: buSelect)
     }
-    // Variable
+    // Variable a
     var activePlayer = "A"
     var playerA = [Int]()
     var playerB = [Int]()
